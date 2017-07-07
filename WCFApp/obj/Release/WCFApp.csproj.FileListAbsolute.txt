@@ -1,0 +1,13 @@
+C:\Temp\Vnext\test\WCFApp\bin\WCFApp.dll.config
+C:\Temp\Vnext\test\WCFApp\bin\WCFApp.dll
+C:\Temp\Vnext\test\WCFApp\bin\WCFApp.pdb
+C:\Temp\Vnext\test\WCFApp\obj\Release\WCFApp.csprojResolveAssemblyReference.cache
+C:\Temp\Vnext\test\WCFApp\obj\Release\WCFApp.dll
+C:\Temp\Vnext\test\WCFApp\obj\Release\WCFApp.pdb
+C:\Temp\Vnext\test\WCFApp\obj\Release\Package\PackageTmp\bin\WCFApp.dll
+C:\Temp\Vnext\test\WCFApp\obj\Release\Package\PackageTmp\Service1.svc
+C:\Temp\Vnext\test\WCFApp\obj\Release\Package\PackageTmp\Web.config
+C:\Temp\Vnext\test\WCFApp\obj\Release\Package\WCFApp.SourceManifest.xml
+C:\Temp\Vnext\test\WCFApp\obj\Release\Package\WCFApp.SetParameters.xml
+C:\Temp\Vnext\test\WCFApp\obj\Release\Package\WCFApp.deploy.cmd
+C:\Temp\Vnext\test\WCFApp\obj\Release\Package\WCFApp.deploy-readme.txt

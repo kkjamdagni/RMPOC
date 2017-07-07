@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Selected Microsoft All Rules after Modification" Description="This rule set contains all rules. Running this rule set may result in a large number of warnings being reported. Use this rule set to get a comprehensive picture of all issues in your code. This can help you decide which of the more focused rule sets are most appropriate to run for your projects." ToolsVersion="11.0">
+  <IncludeAll Action="Warning" />
+  <Rules AnalyzerId="Microsoft.Analyzers.ManagedCodeAnalysis" RuleNamespace="Microsoft.Rules.Managed">
+    <Rule Id="CA1002" Action="None" />
+    <Rule Id="CA1004" Action="None" />
+    <Rule Id="CA1005" Action="None" />
+    <Rule Id="CA1006" Action="None" />
+    <Rule Id="CA1011" Action="None" />
+    <Rule Id="CA1014" Action="None" />
+    <Rule Id="CA1016" Action="None" />
+    <Rule Id="CA1017" Action="None" />
+    <Rule Id="CA1020" Action="None" />
+    <Rule Id="CA1021" Action="None" />
+    <Rule Id="CA1024" Action="None" />
+    <Rule Id="CA1025" Action="None" />
+    <Rule Id="CA1026" Action="None" />
+    <Rule Id="CA1027" Action="None" />
+    <Rule Id="CA1038" Action="None" />
+    <Rule Id="CA1040" Action="None" />
+    <Rule Id="CA1041" Action="Error" />
+    <Rule Id="CA1050" Action="Error" />
+    <Rule Id="CA1062" Action="None" />
+    <Rule Id="CA1065" Action="Error" />
+    <Rule Id="CA1303" Action="None" />
+    <Rule Id="CA1304" Action="None" />
+    <Rule Id="CA1305" Action="None" />
+    <Rule Id="CA1306" Action="None" />
+    <Rule Id="CA1309" Action="None" />
+    <Rule Id="CA1600" Action="None" />
+    <Rule Id="CA1601" Action="None" />
+    <Rule Id="CA1702" Action="None" />
+    <Rule Id="CA1703" Action="None" />
+    <Rule Id="CA1704" Action="None" />
+    <Rule Id="CA1707" Action="None" />
+    <Rule Id="CA1708" Action="None" />
+    <Rule Id="CA1711" Action="None" />
+    <Rule Id="CA1719" Action="None" />
+    <Rule Id="CA1726" Action="None" />
+    <Rule Id="CA1804" Action="None" />
+    <Rule Id="CA1814" Action="None" />
+    <Rule Id="CA1815" Action="None" />
+    <Rule Id="CA1816" Action="Error" />
+    <Rule Id="CA1819" Action="None" />
+    <Rule Id="CA1822" Action="None" />
+    <Rule Id="CA1824" Action="None" />
+    <Rule Id="CA2151" Action="None" />
+    <Rule Id="CA2204" Action="None" />
+    <Rule Id="CA2210" Action="None" />
+    <Rule Id="CA2227" Action="None" />
+    <Rule Id="CA2230" Action="None" />
+    <Rule Id="CA2231" Action="None" />
+    <Rule Id="CA5122" Action="None" />
+  </Rules>
+</RuleSet>

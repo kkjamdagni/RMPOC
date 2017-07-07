@@ -1,0 +1,12 @@
+﻿<!--?xml version="1.0" encoding="utf-8" ?-->
+<parameters>
+  <parameter name="CoolKey" description="The CoolKey setting" defaultvalue="__CoolKey__" tags="">
+    <parameterentry kind="XmlFile" scope="\\web.config$" match="/configuration/appSettings/add[@key='CoolKey']/@value">
+    </parameterentry>
+  </parameter>
+
+  <parameter name="Database Server" defaultValue="__sqlservername__"></parameter>
+  <parameter name="Database Name" defaultValue="__databasename__"></parameter>
+  <parameter name="Database User" defaultValue="__SQLUser__"></parameter>
+  <parameter name="Database Password" defaultValue="__SQLPassword__"></parameter>
+</parameters>

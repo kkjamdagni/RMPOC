@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[WBEG] (
+    [ID]        INT              IDENTITY (1, 1) NOT NULL,
+    [UniqueID]  UNIQUEIDENTIFIER CONSTRAINT [DF_WBEG_UniqueID] DEFAULT (newid()) ROWGUIDCOL NOT NULL,
+    [UserName]  VARCHAR (50)     NOT NULL,
+    [Email]     VARCHAR (255)    NOT NULL,
+    [LogoutURL] VARCHAR (255)    NOT NULL,
+    CONSTRAINT [PK_WBEG] PRIMARY KEY CLUSTERED ([ID] ASC, [UniqueID] ASC) WITH (FILLFACTOR = 90)
+);
+

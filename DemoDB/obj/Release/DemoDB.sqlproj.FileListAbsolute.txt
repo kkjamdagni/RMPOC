@@ -1,0 +1,6 @@
+C:\Temp\Vnext\test\DemoDB\bin\Release\DemoDB.dacpac
+C:\Temp\Vnext\test\DemoDB\bin\Release\DemoDB.dll
+C:\Temp\Vnext\test\DemoDB\bin\Release\DemoDB.pdb
+C:\Temp\Vnext\test\DemoDB\obj\Release\DemoDB.sqlprojResolveAssemblyReference.cache
+C:\Temp\Vnext\test\DemoDB\obj\Release\DemoDB.dll
+C:\Temp\Vnext\test\DemoDB\obj\Release\DemoDB.pdb

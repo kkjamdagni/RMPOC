@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[GHRM] (
+    [ID]        INT              IDENTITY (1, 1) NOT NULL,
+    [UniqueID]  UNIQUEIDENTIFIER CONSTRAINT [DF_GHRM_UniqueID] DEFAULT (newid()) ROWGUIDCOL NOT NULL,
+    [UserName]  VARCHAR (50)     NOT NULL,
+    [Email]     VARCHAR (255)    NOT NULL,
+    [LogoutURL] VARCHAR (255)    NOT NULL,
+    CONSTRAINT [PK_GHRM] PRIMARY KEY CLUSTERED ([ID] ASC, [UniqueID] ASC) WITH (FILLFACTOR = 90)
+);
+

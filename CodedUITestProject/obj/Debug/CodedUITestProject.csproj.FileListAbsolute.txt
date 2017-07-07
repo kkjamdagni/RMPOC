@@ -1,0 +1,13 @@
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\CodedUITestProject\bin\Debug\CodedUITestProject.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\CodedUITestProject\bin\Debug\CodedUITestProject.pdb
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\CodedUITestProject\bin\Debug\CodedUITestProject.dll.CodeAnalysisLog.xml
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\CodedUITestProject\bin\Debug\CodedUITestProject.dll.lastcodeanalysissucceeded
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\CodedUITestProject\obj\Debug\CodedUITestProject.csprojResolveAssemblyReference.cache
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\CodedUITestProject\obj\Debug\CodedUITestProject.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\CodedUITestProject\obj\Debug\CodedUITestProject.pdb
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\CodedUITestProject\bin\Debug\CodedUITestProject.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\CodedUITestProject\bin\Debug\CodedUITestProject.pdb
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\CodedUITestProject\bin\Debug\CodedUITestProject.dll.CodeAnalysisLog.xml
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\CodedUITestProject\bin\Debug\CodedUITestProject.dll.lastcodeanalysissucceeded
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\CodedUITestProject\obj\Debug\CodedUITestProject.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\CodedUITestProject\obj\Debug\CodedUITestProject.pdb

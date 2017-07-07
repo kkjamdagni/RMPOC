@@ -1,0 +1,22 @@
+﻿GRANT CONNECT TO [LoginProxy];
+
+
+GO
+GRANT CONNECT TO [imercer];
+
+
+GO
+GRANT CONNECT TO [HCPSPROD\app_imercer];
+
+
+GO
+GRANT CONNECT TO [HCPSPROD\app_imercer_ro];
+
+
+GO
+GRANT CONNECT TO [HCPSPROD\US-Talent IT_AppSupport-S-G];
+
+
+GO
+GRANT CONNECT TO [MERCER\US-Talent IT_AppSupport-S-G];
+

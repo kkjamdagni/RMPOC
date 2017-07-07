@@ -1,0 +1,9 @@
+C:\Temp\Vnext\test\DemoDBTestProject\bin\Release\DemoDBTestProject.dll.config
+C:\Temp\Vnext\test\DemoDBTestProject\bin\Release\DemoDBTestProject.dll
+C:\Temp\Vnext\test\DemoDBTestProject\bin\Release\DemoDBTestProject.pdb
+C:\Temp\Vnext\test\DemoDBTestProject\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Temp\Vnext\test\DemoDBTestProject\obj\Release\DemoDBTestProject.csprojResolveAssemblyReference.cache
+C:\Temp\Vnext\test\DemoDBTestProject\obj\Release\DemoDBTestProject.SqlServerUnitTest1.resources
+C:\Temp\Vnext\test\DemoDBTestProject\obj\Release\DemoDBTestProject.csproj.GenerateResource.Cache
+C:\Temp\Vnext\test\DemoDBTestProject\obj\Release\DemoDBTestProject.dll
+C:\Temp\Vnext\test\DemoDBTestProject\obj\Release\DemoDBTestProject.pdb

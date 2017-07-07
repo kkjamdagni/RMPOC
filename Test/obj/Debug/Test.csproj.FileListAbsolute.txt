@@ -1,0 +1,80 @@
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\csc.exe
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\vbc.exe
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\VBCSCompiler.exe
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Test.dll.config
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Test.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Test.pdb
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Test.dll.CodeAnalysisLog.xml
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Test.dll.lastcodeanalysissucceeded
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\CodedUITestProject.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.TestTools.UITesting.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.QualityTools.Common.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\UiaComWrapper.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.TestTools.UITest.ExtensionUtilities.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Interop.UIAutomationClient.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.MSXML.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\CodedUITestProject.pdb
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.xml
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.TestTools.UITesting.xml
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.QualityTools.Common.xml
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.dll
+c:\Users\nidhi-goel\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\csc.exe
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\vbc.exe
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\VBCSCompiler.exe
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Test.dll.config
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Test.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Test.pdb
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Test.dll.CodeAnalysisLog.xml
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Test.dll.lastcodeanalysissucceeded
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\CodedUITestProject.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.TestTools.UITesting.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.QualityTools.Common.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\UiaComWrapper.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.TestTools.UITest.ExtensionUtilities.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Interop.UIAutomationClient.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.MSXML.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\CodedUITestProject.pdb
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.xml
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.TestTools.UITesting.xml
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.QualityTools.Common.xml
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\obj\Debug\Test.dll
+C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\obj\Debug\Test.pdb

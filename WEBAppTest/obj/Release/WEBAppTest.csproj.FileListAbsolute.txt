@@ -1,0 +1,5 @@
+C:\Temp\Vnext\test\WEBAppTest\bin\Release\WEBAppTest.dll
+C:\Temp\Vnext\test\WEBAppTest\bin\Release\WEBAppTest.pdb
+C:\Temp\Vnext\test\WEBAppTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Temp\Vnext\test\WEBAppTest\obj\Release\WEBAppTest.dll
+C:\Temp\Vnext\test\WEBAppTest\obj\Release\WEBAppTest.pdb
