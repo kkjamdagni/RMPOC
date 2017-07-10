@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 14.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
 <FxCopReport Version="14.0">
  <Targets>
-  <Target Name="C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test\bin\Test.dll">
+  <Target Name="C:\Temp\Vnext\test\Test\bin\Test.dll">
    <Modules>
     <Module Name="test.dll">
      <Namespaces>
@@ -12,9 +12,9 @@
          <Members>
           <Member Name="#Button1_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="TestForEmptyStringsUsingStringLength" Category="Microsoft.Performance" CheckId="CA1820" Status="Active" Created="2016-09-20 07:14:20Z" FixCategory="NonBreaking">
-             <Issue Name="IsNullOrEmpty" Certainty="95" Level="Warning" Path="C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test" File="Login.aspx.cs" Line="19">Replace the call to 'string.operator !=(string, string)' in 'Login.Button1_Click(object, EventArgs)' with a call to 'String.IsNullOrEmpty'.</Issue>
-             <Issue Name="IsNullOrEmpty" Certainty="95" Level="Warning" Path="C:\Nidhi\TFSQA2015\RMPOC_SCRUM\test\Test" File="Login.aspx.cs" Line="19">Replace the call to 'string.operator !=(string, string)' in 'Login.Button1_Click(object, EventArgs)' with a call to 'String.IsNullOrEmpty'.</Issue>
+            <Message TypeName="TestForEmptyStringsUsingStringLength" Category="Microsoft.Performance" CheckId="CA1820" Status="Active" Created="2017-07-10 13:27:31Z" FixCategory="NonBreaking">
+             <Issue Name="IsNullOrEmpty" Certainty="95" Level="Warning" Path="C:\Temp\Vnext\test\Test" File="Login.aspx.cs" Line="20">Replace the call to 'string.operator !=(string, string)' in 'Login.Button1_Click(object, EventArgs)' with a call to 'String.IsNullOrEmpty'.</Issue>
+             <Issue Name="IsNullOrEmpty" Certainty="95" Level="Warning" Path="C:\Temp\Vnext\test\Test" File="Login.aspx.cs" Line="20">Replace the call to 'string.operator !=(string, string)' in 'Login.Button1_Click(object, EventArgs)' with a call to 'String.IsNullOrEmpty'.</Issue>
             </Message>
            </Messages>
           </Member>
