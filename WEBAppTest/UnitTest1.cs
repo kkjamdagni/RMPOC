@@ -14,14 +14,7 @@ namespace WEBAppTest
             Assert.AreEqual("Krishan", abc.getName());
         }
 
-        [TestMethod]
-        public void getNameTests1()
-        {
-            Test.Test abc1 = new Test.Test();
-            // Assert.IsTrue(true);
-            Assert.AreEqual("Nagendra", abc1.getName1());
-        }
-
+      
         [TestMethod]
         public void Add()
         {
