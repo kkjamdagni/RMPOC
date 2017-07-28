@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 14.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
 <FxCopReport Version="14.0">
  <Targets>
-  <Target Name="C:\Temp\Vnext\test\Test\bin\Test.dll">
+  <Target Name="C:\Users\krishan-kant\Documents\RMPOC\RMPOC\Test\bin\Test.dll">
    <Modules>
     <Module Name="test.dll">
      <Namespaces>
@@ -12,9 +12,32 @@
          <Members>
           <Member Name="#Button1_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="TestForEmptyStringsUsingStringLength" Category="Microsoft.Performance" CheckId="CA1820" Status="Active" Created="2017-07-10 13:27:31Z" FixCategory="NonBreaking">
-             <Issue Name="IsNullOrEmpty" Certainty="95" Level="Warning" Path="C:\Temp\Vnext\test\Test" File="Login.aspx.cs" Line="20">Replace the call to 'string.operator !=(string, string)' in 'Login.Button1_Click(object, EventArgs)' with a call to 'String.IsNullOrEmpty'.</Issue>
-             <Issue Name="IsNullOrEmpty" Certainty="95" Level="Warning" Path="C:\Temp\Vnext\test\Test" File="Login.aspx.cs" Line="20">Replace the call to 'string.operator !=(string, string)' in 'Login.Button1_Click(object, EventArgs)' with a call to 'String.IsNullOrEmpty'.</Issue>
+            <Message TypeName="TestForEmptyStringsUsingStringLength" Category="Microsoft.Performance" CheckId="CA1820" Status="Active" Created="2017-07-27 14:58:36Z" FixCategory="NonBreaking">
+             <Issue Name="IsNullOrEmpty" Certainty="95" Level="Warning" Path="C:\Users\krishan-kant\Documents\RMPOC\RMPOC\Test" File="Login.aspx.cs" Line="20">Replace the call to 'string.operator !=(string, string)' in 'Login.Button1_Click(object, EventArgs)' with a call to 'String.IsNullOrEmpty'.</Issue>
+             <Issue Name="IsNullOrEmpty" Certainty="95" Level="Warning" Path="C:\Users\krishan-kant\Documents\RMPOC\RMPOC\Test" File="Login.aspx.cs" Line="20">Replace the call to 'string.operator !=(string, string)' in 'Login.Button1_Click(object, EventArgs)' with a call to 'String.IsNullOrEmpty'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Test" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypeNamesShouldNotMatchNamespaces" Category="Microsoft.Naming" CheckId="CA1724" Status="Active" Created="2017-07-27 14:58:36Z" FixCategory="Breaking">
+           <Issue Certainty="95" Level="Error">The type name 'Test' conflicts in whole or in part with the namespace name 'Test'. Change either name to eliminate the conflict.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#getName()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="get" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2017-07-27 14:58:36Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error" Path="C:\Users\krishan-kant\Documents\RMPOC\RMPOC\Test" File="Test.cs" Line="11">Correct the casing of 'get' in member name 'Test.getName()' by changing it to 'Get'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getName1()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="get" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2017-07-27 14:58:36Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error" Path="C:\Users\krishan-kant\Documents\RMPOC\RMPOC\Test" File="Test.cs" Line="16">Correct the casing of 'get' in member name 'Test.getName1()' by changing it to 'Get'.</Issue>
             </Message>
            </Messages>
           </Member>
@@ -28,6 +51,16 @@
   </Target>
  </Targets>
  <Rules>
+  <Rule TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709">
+   <Name>Identifiers should be cased correctly</Name>
+   <Description>Type, namespace, and member identifiers are Pascal-cased. Parameter identifiers are camel-cased. Two letter acronyms within these identifiers should be upper-cased, for example, use System.IO instead of System.Io. Acronyms of three or more letters should be Pascal-cased, for example, use System.Xml instead of System.XML. The pascal-casing convention capitalizes the first letter of each word, as in BackColor. The camel-casing convention formats the first letter of the first word in lowercase and capitalizes the first letter of all subsequent words, as in backgroundColor. Although it may be common practice for some two letter acronyms to not be fully capitalized, violations of this rule should not be excluded for this reason. For example, 'DbConnection', is common but incorrect; use DBConnection. A violation of this rule might be required for compatibility with existing, non-managed symbol schemes. In general, however, these symbols should not be visible outside the assembly that uses them.</Description>
+   <Resolution Name="Member">Correct the casing of '{0}' in member name {1} by changing it to '{2}'.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182240.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="85">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="14.0.0.0" />
+  </Rule>
   <Rule TypeName="TestForEmptyStringsUsingStringLength" Category="Microsoft.Performance" CheckId="CA1820">
    <Name>Test for empty strings using string length</Name>
    <Description>To test for empty strings, check if String.Length is equal to zero. Constructs such as "".Equals(someString) and String.Empty.Equals(someString) are less efficient than testing the string length. Replace these with checks for someString.Length == 0.</Description>
@@ -37,6 +70,16 @@
    <Email>[none]</Email>
    <MessageLevel Certainty="95">Warning</MessageLevel>
    <File Name="performancerules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypeNamesShouldNotMatchNamespaces" Category="Microsoft.Naming" CheckId="CA1724">
+   <Name>Type names should not match namespaces</Name>
+   <Description>Identifiers which conflict in whole or in part with namespace names should be avoided. Names that describe the purpose or contents of a type are preferred.</Description>
+   <Resolution Name="Default">The type name {0} conflicts in whole or in part with the namespace name '{1}'. Change either name to eliminate the conflict.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182257.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="14.0.0.0" />
   </Rule>
  </Rules>
  <Localized>
