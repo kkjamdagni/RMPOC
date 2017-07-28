@@ -19,7 +19,7 @@ namespace WEBAppTest
         {
             Test.Test abc = new Test.Test();
             // Assert.IsTrue(true);
-            Assert.AreEqual("Nagendr", abc.getName1());
+            Assert.AreEqual("Nagendra", abc.getName1());
         }
 
         [TestMethod]
