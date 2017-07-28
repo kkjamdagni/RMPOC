@@ -1,18 +1,27 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-
+using Test;
 namespace WEBAppTest
 {
     [TestClass]
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void getNameTests()
         {
-           // Assert.IsTrue(true);
-            Assert.IsFalse(true);
+            Test.Test abc = new Test.Test();
+            // Assert.IsTrue(true);
+            Assert.AreEqual("Krishan", abc.getName());
         }
-  
+
+        [TestMethod]
+        public void getNameTests1()
+        {
+            Test.Test abc = new Test.Test();
+            // Assert.IsTrue(true);
+            Assert.AreEqual("Nagendr", abc.getName1());
+        }
+
         [TestMethod]
         public void Add()
         {
