@@ -184,6 +184,9 @@
       </violation>
     </violations>
   </sourcecode>
+  <project key="1683740478">
+    <configuration>CODE_ANALYSIS;DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2017-07-27 16:10:11.109</styleCop>
@@ -335,7 +338,7 @@
     <timestamps>
       <styleCop>2017-07-27 16:10:11.109</styleCop>
       <settingsFile>2017-07-27 16:10:11.091</settingsFile>
-      <sourceFile>2017-07-27 16:10:10.371</sourceFile>
+      <sourceFile>2017-07-28 16:25:11.771</sourceFile>
       <parser>2017-07-27 16:10:11.109</parser>
       <StyleCop.CSharp.DocumentationRules>2017-07-27 16:10:11.109</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1275521893</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -398,11 +401,6 @@
         <line>16</line>
         <warning>False</warning>
       </violation>
-      <violation namespace="StyleCop.CSharp.LayoutRules" rule="SingleLineCommentsMustNotBeFollowedByBlankLine" ruleCheckId="SA1512">
-        <context>A single-line comment must not be followed by a blank line. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
-        <line>16</line>
-        <warning>False</warning>
-      </violation>
       <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
         <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
         <line>16</line>
@@ -412,6 +410,39 @@
         <startColumn>9</startColumn>
         <endLine>16</endLine>
         <endColumn>14</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>18</line>
+        <index>340</index>
+        <endIndex>397</endIndex>
+        <startLine>18</startLine>
+        <startColumn>9</startColumn>
+        <endLine>18</endLine>
+        <endColumn>66</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>19</line>
+        <index>408</index>
+        <endIndex>410</endIndex>
+        <startLine>19</startLine>
+        <startColumn>9</startColumn>
+        <endLine>19</endLine>
+        <endColumn>11</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>28</line>
+        <index>686</index>
+        <endIndex>688</endIndex>
+        <startLine>28</startLine>
+        <startColumn>9</startColumn>
+        <endLine>28</endLine>
+        <endColumn>11</endColumn>
         <warning>False</warning>
       </violation>
       <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
@@ -430,45 +461,13 @@
         <endColumn>2</endColumn>
         <warning>False</warning>
       </violation>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
-        <context>The method must have a documentation header.</context>
-        <line>18</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
-        <context>The call to TextBox1 must begin with the 'this.', 'base.', 'object.' or 'Login.' or 'System.Web.UI.Page.' prefix to indicate the intended method call. </context>
-        <line>20</line>
-        <index>425</index>
-        <endIndex>432</endIndex>
-        <startLine>20</startLine>
-        <startColumn>17</startColumn>
-        <endLine>20</endLine>
-        <endColumn>24</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
-        <context>The call to TextBox2 must begin with the 'this.', 'base.', 'object.' or 'Login.' or 'System.Web.UI.Page.' prefix to indicate the intended method call. </context>
-        <line>20</line>
-        <index>448</index>
-        <endIndex>455</endIndex>
-        <startLine>20</startLine>
-        <startColumn>40</startColumn>
-        <endLine>20</endLine>
-        <endColumn>47</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseStringEmptyForEmptyStrings" ruleCheckId="SA1122">
-        <context>Use string.Empty rather than "".</context>
-        <line>20</line>
-        <warning>False</warning>
-      </violation>
     </violations>
   </sourcecode>
   <sourcecode name="Login.aspx.designer.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2017-07-27 16:10:11.109</styleCop>
       <settingsFile>2017-07-27 16:10:11.091</settingsFile>
-      <sourceFile>2017-07-27 16:10:10.373</sourceFile>
+      <sourceFile>2017-07-28 16:23:19.381</sourceFile>
       <parser>2017-07-27 16:10:11.109</parser>
       <StyleCop.CSharp.DocumentationRules>2017-07-27 16:10:11.109</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1275521893</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -487,7 +486,4 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="1683740478">
-    <configuration>CODE_ANALYSIS;DEBUG;TRACE</configuration>
-  </project>
 </stylecopresultscache>

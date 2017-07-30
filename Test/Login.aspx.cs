@@ -15,16 +15,16 @@ namespace Test
         }
         //test
 
-        protected void Button1_Click(object sender, EventArgs e)
-        {
-            if (TextBox1.Text != "" && TextBox2.Text != "")
-            {
-                Response.Redirect("EmpDetails.aspx");
-            }
-            else
-            { 
-                Response.Write("Please enter data");
-            }
-        }
+        //protected void Button1_Click(object sender, EventArgs e)
+        //{
+        //    if (TextBox1.Text != "" && TextBox2.Text != "")
+        //    {
+        //        Response.Redirect("EmpDetails.aspx");
+        //    }
+        //    else
+        //    { 
+        //        Response.Write("Please enter data");
+        //    }
+        //}
     }
 }
