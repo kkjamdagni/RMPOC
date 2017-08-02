@@ -11,7 +11,7 @@ namespace WEBAppTest
         {
             Test.Test abc = new Test.Test();
             // Assert.IsTrue(true);
-            Assert.AreEqual("Krishan", abc.getName());
+            Assert.AreEqual("Krishan1", abc.getName());
         }
 
       
