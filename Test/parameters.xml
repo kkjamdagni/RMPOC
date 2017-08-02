@@ -1,7 +1,7 @@
 ﻿<!--?xml version="1.0" encoding="utf-8" ?-->
 <parameters>
-  <parameter name="CoolKey" description="The CoolKey setting" defaultvalue="__CoolKey__" tags="">
-    <parameterentry kind="XmlFile" scope="\\web.config$" match="/configuration/appSettings/add[@key='CoolKey']/@value">
+  <parameter name="Region" description="Sever Region " defaultvalue="Default" tags="">
+    <parameterentry kind="XmlFile" scope="\\web.config$" match="/configuration/appSettings/add[@key='Server']/@value">
     </parameterentry>
   </parameter>
 
