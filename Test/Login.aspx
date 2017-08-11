@@ -133,7 +133,7 @@ width: 250px;
     <form id="form1" runat="server">
   
         <div id="login">
-<h1><strong>Welcome Nidhi and Ankit.</strong> Please login using your credentials</h1>
+<h1><strong>Welcome.</strong> Please login using your credentials</h1>
 <form action="javascript:void(0);" method="get">
 <fieldset>
 <p><input type="text" required value="Username" onBlur="if(this.value=='')this.value='Username'" onFocus="if(this.value=='Username')this.value='' " ></p>
